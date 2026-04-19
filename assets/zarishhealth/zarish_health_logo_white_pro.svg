@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80">
+  <!-- ZarishHealth Logo - White Version -->
+  <!-- For dark backgrounds: teal ocean, gunmetal, navy -->
+  
+  <defs>
+    <linearGradient id="leafGradW" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E0E0E0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Logo Mark: White leaf -->
+  <g transform="translate(10, 10)">
+    <path d="M20 5 
+             Q25 5 28 12 
+             Q35 20 28 28 
+             Q20 35 12 28 
+             Q5 20 12 12 
+             Q15 5 20 5" 
+          fill="url(#leafGradW)"/>
+    
+    <circle cx="20" cy="18" r="3" fill="#285CCC"/>
+  </g>
+  
+  <!-- Wordmark: White -->
+  <text x="60" y="38" 
+        font-family="Inter, Arial, sans-serif" 
+        font-weight="700" 
+        font-size="32" 
+        fill="#FFFFFF">zarish</text>
+  
+  <text x="156" y="38" 
+        font-family="Inter, Arial, sans-serif" 
+        font-weight="700" 
+        font-size="32" 
+        fill="#FFFFFF">health</text>
+  
+  <text x="60" y="58" 
+        font-family="Inter, Arial, sans-serif" 
+        font-weight="500" 
+        font-size="9" 
+        letter-spacing="2.5" 
+        fill="#F7F9EC" 
+        opacity="0.8">EMR PLATFORM</text>
+</svg>

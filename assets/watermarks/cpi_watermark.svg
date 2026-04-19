@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- CPI Logo Watermark -->
+  <!-- For use as background watermark on documents -->
+  <!-- Use at 15-46% opacity -->
+  
+  <defs>
+    <style>
+      .wm-fill { fill: #948794; }
+    </style>
+  </defs>
+  
+  <!-- Simplified CPI mark for watermark -->
+  <g opacity="0.30">
+    <!-- Circle container -->
+    <circle cx="100" cy="100" r="60" fill="none" stroke="#948794" stroke-width="1"/>
+    
+    <!-- Inner circle -->
+    <circle cx="100" cy="100" r="45" fill="none" stroke="#948794" stroke-width="0.5"/>
+    
+    <!-- Simplified flower/four circles -->
+    <circle cx="100" cy="75" r="8" class="wm-fill"/>
+    <circle cx="125" cy="100" r="8" class="wm-fill"/>
+    <circle cx="100" cy="125" r="8" class="wm-fill"/>
+    <circle cx="75" cy="100" r="8" class="wm-fill"/>
+    
+    <!-- Center dot -->
+    <circle cx="100" cy="100" r="5" class="wm-fill"/>
+    
+    <!-- CPI Text -->
+    <text x="100" y="170" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" class="wm-fill">CPI</text>
+  </g>
+</svg>

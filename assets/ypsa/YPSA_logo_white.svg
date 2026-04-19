@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- YPSA Logo - White Version (for dark/navy backgrounds) -->
+  <!-- Circular badge with human silhouettes -->
+  
+  <defs>
+    <style>
+      .ypsa-white { fill: #FFFFFF; }
+      .ypsa-navy { fill: #0B0B45; }
+    </style>
+  </defs>
+  
+  <!-- Outer ring - Navy background -->
+  <circle cx="100" cy="100" r="95" class="ypsa-navy"/>
+  
+  <!-- Inner ring - White border -->
+  <circle cx="100" cy="100" r="85" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  
+  <!-- Three connected human silhouettes (simplified) -->
+  <circle cx="70" cy="100" r="15" class="ypsa-white"/>
+  <circle cx="100" cy="85" r="15" class="ypsa-white"/>
+  <circle cx="130" cy="100" r="15" class="ypsa-white"/>
+  
+  <!-- Bodies (simplified curves) -->
+  <ellipse cx="70" cy="130" rx="12" ry="25" class="ypsa-white"/>
+  <ellipse cx="100" cy="120" rx="12" ry="25" class="ypsa-white"/>
+  <ellipse cx="130" cy="130" rx="12" ry="25" class="ypsa-white"/>
+  
+  <!-- Bengali text arc (simplified representation) -->
+  <text x="100" y="45" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle">ইপসা</text>
+  
+  <!-- English text arc -->
+  <text x="100" y="175" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">YPSA</text>
+</svg>

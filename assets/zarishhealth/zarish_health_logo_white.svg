@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <!-- ZarishHealth Logo - White Version (for dark backgrounds) -->
+  
+  <!-- Wordmark: "zarish" in white -->
+  <text x="0" y="36" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="32" fill="#FFFFFF">zarish</text>
+  
+  <!-- Wordmark: "health" in white -->
+  <text x="108" y="36" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="32" fill="#FFFFFF">health</text>
+  
+  <!-- Subtitle: EMR PLATFORM -->
+  <text x="0" y="60" font-family="Inter, Arial, sans-serif" font-weight="500" font-size="10" letter-spacing="2" fill="#F7F9EC">EMR PLATFORM</text>
+</svg>

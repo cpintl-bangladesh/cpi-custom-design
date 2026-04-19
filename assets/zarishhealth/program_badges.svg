@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40">
+  <!-- ZarishHealth Program Badges -->
+  <!-- Color-coded badges for each health program -->
+  
+  <!-- HCV Badge - Mimosa (#FFC94B) -->
+  <g>
+    <rect x="0" y="0" width="40" height="24" rx="4" fill="#FFF3CD" stroke="#FFC94B" stroke-width="1"/>
+    <circle cx="12" cy="12" r="4" fill="#FFC94B"/>
+    <text x="22" y="15" font-family="Inter, Arial" font-weight="600" font-size="8" fill="#7D5A00">HCV</text>
+  </g>
+  
+  <!-- CVD Badge - Salmon (#FF947A) -->
+  <g transform="translate(45, 0)">
+    <rect x="0" y="0" width="40" height="24" rx="4" fill="#FFF0EB" stroke="#FF947A" stroke-width="1"/>
+    <circle cx="12" cy="12" r="4" fill="#FF947A"/>
+    <text x="22" y="15" font-family="Inter, Arial" font-weight="600" font-size="8" fill="#8B3A24">CVD</text>
+  </g>
+  
+  <!-- MHPSS Badge - Lavender (#D3C5F6) -->
+  <g transform="translate(90, 0)">
+    <rect x="0" y="0" width="50" height="24" rx="4" fill="#F3EFFE" stroke="#D3C5F6" stroke-width="1"/>
+    <circle cx="12" cy="12" r="4" fill="#D3C5F6"/>
+    <text x="22" y="15" font-family="Inter, Arial" font-weight="600" font-size="8" fill="#3B2A60">MHPSS</text>
+  </g>
+  
+  <!-- Family Planning Badge - Mid Green (#025259) -->
+  <g transform="translate(0, 28)">
+    <rect x="0" y="0" width="40" height="24" rx="4" fill="#E6F4F4" stroke="#025259" stroke-width="1"/>
+    <circle cx="12" cy="12" r="4" fill="#025259"/>
+    <text x="22" y="15" font-family="Inter, Arial" font-weight="600" font-size="8" fill="#025259">FP</text>
+  </g>
+  
+  <!-- MNCH Badge - Xanthous (#F7B638) -->
+  <g transform="translate(45, 28)">
+    <rect x="0" y="0" width="40" height="24" rx="4" fill="#FEF8E7" stroke="#F7B638" stroke-width="1"/>
+    <circle cx="12" cy="12" r="4" fill="#F7B638"/>
+    <text x="22" y="15" font-family="Inter, Arial" font-weight="600" font-size="8" fill="#7D5A00">MNCH</text>
+  </g>
+  
+  <!-- Community Badge - Lemonade (#CDF12B) -->
+  <g transform="translate(90, 28)">
+    <rect x="0" y="0" width="65" height="24" rx="4" fill="#F0F8D8" stroke="#CDF12B" stroke-width="1"/>
+    <circle cx="12" cy="12" r="4" fill="#CDF12B"/>
+    <text x="22" y="15" font-family="Inter, Arial" font-weight="600" font-size="8" fill="#3A4A00">COMM</text>
+  </g>
+</svg>
