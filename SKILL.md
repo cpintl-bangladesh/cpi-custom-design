@@ -1,26 +1,16 @@
 ---
-name: CPI-custom-design
-version: 1.0.0
-description: |
-Complete custom design SKILL package for CPI Bangladesh (Community Partners International),
-YPSA (Young Power in Social Action), and Zarish Health digital platform. Covers brand
-identity standards, color systems, typography, design philosophy, web tokens, canvas rules,
-theme definitions, and UI component patterns — ready for use with any AI assistant.
-Authored for humanitarian health programs in Cox's Bazar, Bangladesh.
-tags:
-
-
-* brand-guidelines
-* theme-factory
-* canvas-design
-* web-artifacts-builder
-* humanitarian
-* health
-* bangladesh
-* refugee-health
-* digital-public-infrastructure
+name: cpi-custom-design
+description: Apply CPI Bangladesh, YPSA and Zarish Health brand guidelines to presentations and documents, including official colors, fonts, and design standards.
+metadata:
+  version: 1.0.0
   author: CPI Bangladesh / ZarishSphere Platform
   license: Internal Use — CPI Bangladesh Programs
+  tags:
+    - brand-guidelines
+    - theme-factory
+    - humanitarian
+    - health
+    - bangladesh
 ---
 # CPI Custom Design SKILL
 
